@@ -9,7 +9,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 150vh;
+    height: 100vh;
     background-color: #f8d7da;
     color: #333;
 }
@@ -25,7 +25,7 @@ body {
 }
 profile-photo {
     width: 120px;
-    height: 100px;
+    height: 150px;
     border-radius: 50%;
     object-fit: cover;
     margin-bottom: 15px;
